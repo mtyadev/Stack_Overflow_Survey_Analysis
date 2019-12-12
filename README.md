@@ -20,7 +20,7 @@ Analysis of the <a href="https://insights.stackoverflow.com/survey/2019">annual 
 
 ## Intended Usage
 
-* Read along the analysis in "Stack_Overflow_Survey_Data_Preparation.ipynb" and the public blog post at medium.com
+* Read along the analysis in "Stack_Overflow_Survey_Data_Preparation.ipynb" and the public <a href="https://medium.com/@migueltya/are-you-aware-of-the-upcoming-trends-in-tech-4a952c4d39cb">blog post</a> at medium.com
 
 ## Acknowledgements
 
