@@ -3,8 +3,8 @@ Analysis of the <a href="https://insights.stackoverflow.com/survey/2019">annual 
 
 ## Project Motivation
 
-* Conduct Data Exploration and Data Analysis based on Crisp-DM methodology
-* Share interesting insights from the stack overflow survey analysis with the public
+* Conduct Data Exploration and Data Analysis applying data science's standardized Crisp-DM methodology
+* Share interesting insights from stack overflow survey analysis with the public
 * Analysis results have been published as a blog post on medium.com -> https://medium.com/@migueltya/are-you-aware-of-the-upcoming-trends-in-tech-4a952c4d39cb
 
 ## Installations
